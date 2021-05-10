@@ -29,6 +29,6 @@ Here are some ideas to get you started:
     <li><b>Titanik Verisetinin Görselleştirilmesi ve Hayatta Kalan Yolcuların Tespiti Projesi</b><br><a href="https://github.com/atakanozdin/Titanic-Deep-Learning-Prediciton" target="_blank">Projenin kaynak kodları</a></li>
    </ol>    
 
-<br><a href="http://www.robotikteknik.com/" target="_blank">Kendi Websitem olan RobotikTeknik.com</a><br><br>
-<a href="https://www.linkedin.com/in/atakanozdin/" target="_blank">LinkedIn Adresim</a><br><br>
+<br><a href="http://www.robotikteknik.com/" target="_top">Kendi Websitem olan RobotikTeknik.com</a><br><br>
+<a href="https://www.linkedin.com/in/atakanozdin/" target="_top">LinkedIn Adresim</a><br><br>
 <a href="mailto:atakanozdinn@gmail.com">Mail Adresim</a>
